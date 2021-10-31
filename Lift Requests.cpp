@@ -1,3 +1,5 @@
+// Start of a program named "Lift Requests"
+
 #include <iostream>
 using namespace std;
 
@@ -22,3 +24,5 @@ int main() {
 	}
 	return 0;
 }
+
+// End of the program
